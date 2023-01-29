@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title: LikaLiku(id) Semester Dua
