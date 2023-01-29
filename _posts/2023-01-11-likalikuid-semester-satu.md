@@ -8,9 +8,9 @@ comments: true
 
 Blog pertama, *postingan* pertama, jadi yang akan dibahas juga pengalaman pertama saat perkuliahan. Apalagi kalau bukan semester satu. Yah, walaupun sudah terlambat 1,5 tahun buat menulis ini, tapi karena terinspirasi dari tulisan-tulisan pendahulu yang membahas pengalaman selama satu semester, sepertinya cukup buat jadi alasan untuk membuat *review* semester-an baru, terutama adanya perubahan kurikulum dan mata kuliah baru yang berbeda dengan *review-review* sebelumnya. Oke, langsung saja, mari kita mulai bahasan selama satu semesteran ini (*review* diurutkan berdasarkan abjad matkul- nya).
 
-## Dasar-Dasar Pemrograman 1
+## Dasar-Dasar Pemrograman 1 (DDP 1)
 
-Bukan Fasilkom namanya kalau tidak ada pelajaran pemrograman. Untuk semester 1 ini, ada matkul Dasar-Dasar Pemrograman 1 yang menggunakan bahasa Python (untuk kurikulum yang saya jalani). Di matkul ini, akan dipelajari berbagai hal mengenai pemrograman dan untuk kalian yang tidak ada dasar tentang pemrograman, tenang aja, sesuai namanya, matkul ini memang ditujukan untuk membangun dasar pemrograman untuk kuliah-kuliah selanjutnya (yang mana lebih parah dari ini). Paling jauh juga hanya belajar *object-oriented programming* (dan katanya ini yang paling susah dari seluruh materi matkulnya).
+Bukan Fasilkom namanya kalau tidak ada pelajaran pemrograman. Untuk semester 1 ini, ada matkul DDP 1 yang menggunakan bahasa Python (untuk kurikulum yang saya jalani). Di matkul ini, akan dipelajari berbagai hal mengenai pemrograman dan untuk kalian yang tidak ada dasar tentang pemrograman, tenang aja, sesuai namanya, matkul ini memang ditujukan untuk membangun dasar pemrograman untuk kuliah-kuliah selanjutnya (yang mana lebih parah dari ini). Paling jauh juga hanya belajar *object-oriented programming* (dan katanya ini yang paling susah dari seluruh materi matkulnya).
 
 Tugas-tugasnya juga tergolong terstruktur dan jelas, ada lab dan kuis yang dirilis setiap pekan dan tugas pemrograman yang rilisnya tidak menentu. Untuk Lab, biasanya dirilis Kamis malam dan selesai Jumat sore. Implementasi kodenya juga masih ringan, biasanya hanya mengimplementasikan satu atau dua hal yang dipelajari di perkuliahan pekan tersebut. Lalu, ada kuis yang dirilisnya tiap Selasa sebelum pembelajaran dimulai (jadwal kuis tergantung dosen masing-masing, kebetulan saja mahasiswa di kelas saya maunya seperti ini). Kuis tersebut juga hanya berkisar dengan materi pekan lalu dan boleh *open-book* sehingga seharusnya tidak begitu ada masalah dengan hal itu.
 
@@ -26,7 +26,7 @@ Sebelum berlanjut ke UAS a.k.a. *big boss* dari komponen matkul ini, ada baiknya
 
 Terakhir ada UAS dengan bobot yang besar untuk semester yang saya ikuti. Berita baiknya, soal-soal pada UAS tidak semenakutkan yang dibayangkan. Tidak sesulit kuis, tetapi lebih sulit dari PR. Selain itu, juga diperbolehkan untuk menggunakan kalkulator yang benar-benar mempermudah pengerjaan UAS tersebut.
 
-## Matematika Diskret 1
+## Matematika Diskret 1 (MatDis 1)
 
 Kata sebagian orang, ini salah satu matkul yang cukup mudah untuk mendapatkan nilai yang tinggi, tetapi, entah kenapa, saya tidak merasa begitu. Entah karena saya kurang bisa dalam memahami pertanyaannya atau pertanyaannya memang ambigu sehingga saya salah mengartikan apa yang diminta pada soal. Materi yang diajarkan dalam matkul ini mencakup logika, pembuktian, barisan, fungsi, himpunan, induksi matematika, aturan berhitung, serta kombinatorika.
 
@@ -53,7 +53,7 @@ Digabungkan saja *review* untuk kedua matkul wajib universitas ini. Tidak ada ba
 
 Untuk matkul MPK Agama biasanya nilainya ajaib, tergantung keinginan dosen yang mengajar, yang penting kerjakan tugas-tugasnya dengan benar. Walaupun tugasnya hanya sekedar diberikan oleh dosen, bukan hanya yang tertulis pada BRP.
 
-## Pengantar Sistem Digital
+## Pengantar Sistem Digital (PSD)
 
 Matkul yang dikatakan menjadi momok untuk mahasiswa Fasilkom (kata angkatan-angkatan sebelumnya), tetapi dengan fakta dilapangan yang berbeda. Hanya kurang dari lima orang saja yang perlu mengambil matkul ini lagi untuk setiap angkatan. Entah bersumber dari mana mitos tersebut, tetapi matkul ini sebenarnya cukup seru untuk dipelajari, mulai dari aturan-aturan dalam sistem digital, *combinational circuit*, *sequential circuit*, register, hingga memori.
 
